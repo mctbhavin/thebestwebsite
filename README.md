@@ -24,3 +24,4 @@ To deploy it, use `yarn run build` and deploy the contents of the `dist/` direct
 
 ## Want to create a blog with a similar theme?
 Check out [The Best Blog Theme](https://github.com/denysvitali/hugo-thebestmotherfuckingblog) or try [HugoModo Best Website](https://github.com/hugomodo/hugomodo-best-motherfucking-website) by [thombruce](https://github.com/thombruce).
+bhavin is added
